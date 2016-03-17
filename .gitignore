@@ -33,11 +33,12 @@ class pixelsd {
                 counter++;
             }
         }
-        for(int i=0;i<counter;i++){
+       /* for(int i=0;i<counter;i++){
            for(int j=0;j<3;j++){
                System.out.print(" " + pixelData[i][j]);
                }System.out.println(" ");
-        }
+        }*/ 
+        //use this loop if you want to check the array. 
            
           
       //return args;
